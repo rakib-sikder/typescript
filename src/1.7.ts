@@ -1,5 +1,5 @@
 const frnd: string[]=["Rakib","Sikder","Rafiq","Sikder"];
-const frnd2: string[]=["Rakib","Sikder","Rafiq","Sikder"];\
+const frnd2: string[]=["Rakib","Sikder","Rafiq","Sikder"];
 frnd.push(...frnd2)
 
 const frnd3={
