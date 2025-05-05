@@ -13,4 +13,3 @@ const myself = {
         return this.balance + money;
     },
 };
-console.log(myself.deposit(1000));
